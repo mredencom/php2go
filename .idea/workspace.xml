@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb459987-aa99-4bf2-b09a-deac9795b54c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/php/acos.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/acos_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/cos.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TODO.md" beforeDir="false" afterPath="$PROJECT_DIR$/TODO.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,13 +59,27 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Test.TestEcho in php2go/php">
-    <configuration name="go build php2go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Test.TestAcos in php2go/php">
+    <configuration name="TestAbs in php2go/php" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="php2go" />
-      <working_directory value="$PROJECT_DIR$/" />
+      <working_directory value="$PROJECT_DIR$/php" />
+      <framework value="gotest" />
       <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/main.go" />
-      <package value="php2go" />
+      <package value="php2go/php" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestAbs$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestAcos in php2go/php" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="php2go" />
+      <working_directory value="$PROJECT_DIR$/php" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="php2go/php" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestAcos$" />
       <method v="2" />
     </configuration>
     <configuration name="TestArray in php2go/php" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
@@ -95,21 +113,13 @@
       <pattern value="^TestEcho$" />
       <method v="2" />
     </configuration>
-    <configuration name="go test php2go/php" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="php2go" />
-      <working_directory value="$PROJECT_DIR$/php" />
-      <framework value="gotest" />
-      <kind value="PACKAGE" />
-      <package value="php2go/php" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.TestAcos in php2go/php" />
+        <item itemvalue="Go Test.TestAbs in php2go/php" />
         <item itemvalue="Go Test.TestEcho in php2go/php" />
         <item itemvalue="Go Test.TestArrayChunk in php2go/php" />
         <item itemvalue="Go Test.TestArray in php2go/php" />
-        <item itemvalue="Go Build.go build php2go" />
-        <item itemvalue="Go Test.go test php2go/php" />
       </list>
     </recent_temporary>
   </component>
@@ -117,30 +127,30 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1837" height="290" key="GridCell.Tab.0.bottom" timestamp="1594279666482">
+    <state width="1837" height="290" key="GridCell.Tab.0.bottom" timestamp="1594281943441">
       <screen x="-1879" y="23" width="1879" height="1057" />
     </state>
     <state width="1833" height="290" key="GridCell.Tab.0.bottom/0.23.1920.1057/-1875.23.1875.1057@-1875.23.1875.1057" timestamp="1594257171415" />
     <state width="1833" height="290" key="GridCell.Tab.0.bottom/0.23.1920.1057/-1876.23.1876.1057@-1876.23.1876.1057" timestamp="1594258677019" />
-    <state width="1837" height="290" key="GridCell.Tab.0.bottom/0.23.1920.1057/-1879.23.1879.1057@-1879.23.1879.1057" timestamp="1594279666482" />
-    <state width="1837" height="290" key="GridCell.Tab.0.center" timestamp="1594279666482">
+    <state width="1837" height="290" key="GridCell.Tab.0.bottom/0.23.1920.1057/-1879.23.1879.1057@-1879.23.1879.1057" timestamp="1594281943441" />
+    <state width="1837" height="290" key="GridCell.Tab.0.center" timestamp="1594281943440">
       <screen x="-1879" y="23" width="1879" height="1057" />
     </state>
     <state width="1833" height="290" key="GridCell.Tab.0.center/0.23.1920.1057/-1875.23.1875.1057@-1875.23.1875.1057" timestamp="1594257171415" />
     <state width="1833" height="290" key="GridCell.Tab.0.center/0.23.1920.1057/-1876.23.1876.1057@-1876.23.1876.1057" timestamp="1594258677018" />
-    <state width="1837" height="290" key="GridCell.Tab.0.center/0.23.1920.1057/-1879.23.1879.1057@-1879.23.1879.1057" timestamp="1594279666482" />
-    <state width="1837" height="290" key="GridCell.Tab.0.left" timestamp="1594279666481">
+    <state width="1837" height="290" key="GridCell.Tab.0.center/0.23.1920.1057/-1879.23.1879.1057@-1879.23.1879.1057" timestamp="1594281943440" />
+    <state width="1837" height="290" key="GridCell.Tab.0.left" timestamp="1594281943440">
       <screen x="-1879" y="23" width="1879" height="1057" />
     </state>
     <state width="1833" height="290" key="GridCell.Tab.0.left/0.23.1920.1057/-1875.23.1875.1057@-1875.23.1875.1057" timestamp="1594257171415" />
     <state width="1833" height="290" key="GridCell.Tab.0.left/0.23.1920.1057/-1876.23.1876.1057@-1876.23.1876.1057" timestamp="1594258677018" />
-    <state width="1837" height="290" key="GridCell.Tab.0.left/0.23.1920.1057/-1879.23.1879.1057@-1879.23.1879.1057" timestamp="1594279666481" />
-    <state width="1837" height="290" key="GridCell.Tab.0.right" timestamp="1594279666482">
+    <state width="1837" height="290" key="GridCell.Tab.0.left/0.23.1920.1057/-1879.23.1879.1057@-1879.23.1879.1057" timestamp="1594281943440" />
+    <state width="1837" height="290" key="GridCell.Tab.0.right" timestamp="1594281943441">
       <screen x="-1879" y="23" width="1879" height="1057" />
     </state>
     <state width="1833" height="290" key="GridCell.Tab.0.right/0.23.1920.1057/-1875.23.1875.1057@-1875.23.1875.1057" timestamp="1594257171415" />
     <state width="1833" height="290" key="GridCell.Tab.0.right/0.23.1920.1057/-1876.23.1876.1057@-1876.23.1876.1057" timestamp="1594258677019" />
-    <state width="1837" height="290" key="GridCell.Tab.0.right/0.23.1920.1057/-1879.23.1879.1057@-1879.23.1879.1057" timestamp="1594279666482" />
+    <state width="1837" height="290" key="GridCell.Tab.0.right/0.23.1920.1057/-1879.23.1879.1057@-1879.23.1879.1057" timestamp="1594281943441" />
     <state x="-1432" y="190" key="SettingsEditor" timestamp="1594278715712">
       <screen x="-1879" y="23" width="1879" height="1057" />
     </state>
