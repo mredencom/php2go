@@ -422,7 +422,7 @@
   - [ ] is_float() 检测变量是否是浮点型
   - [ ] is_int() 检测变量是否是整数
   - [ ] is_integer() is_int 的别名
-  - [ ] is_iterable() Verify that the contents of a variable is an iterable value
+  - [ ] is_iterable() 验证变量的内容是否为可迭代值
   - [ ] is_long() is_int 的别名
   - [ ] is_null() 检测变量是否为 NULL
   - [ ] is_numeric() 检测变量是否为数字或数字字符串
