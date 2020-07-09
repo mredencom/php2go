@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bb459987-aa99-4bf2-b09a-deac9795b54c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1eQak4BFMZSnIJoBbjy6hJxav60" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
+  </component>
+  <component name="RunManager" selected="Go Test.go test php2go/php">
+    <configuration name="TestArray in php2go/php" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="php2go" />
+      <working_directory value="$PROJECT_DIR$/php" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="php2go/php" />
+      <pattern value="^TestArray$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go test php2go/php" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="php2go" />
+      <working_directory value="$PROJECT_DIR$/php" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="php2go/php" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.go test php2go/php" />
+        <item itemvalue="Go Test.TestArray in php2go/php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1833" height="290" key="GridCell.Tab.0.bottom" timestamp="1594257171415">
+      <screen x="-1875" y="23" width="1875" height="1057" />
+    </state>
+    <state width="1833" height="290" key="GridCell.Tab.0.bottom/0.23.1920.1057/-1875.23.1875.1057@-1875.23.1875.1057" timestamp="1594257171415" />
+    <state width="1833" height="290" key="GridCell.Tab.0.center" timestamp="1594257171415">
+      <screen x="-1875" y="23" width="1875" height="1057" />
+    </state>
+    <state width="1833" height="290" key="GridCell.Tab.0.center/0.23.1920.1057/-1875.23.1875.1057@-1875.23.1875.1057" timestamp="1594257171415" />
+    <state width="1833" height="290" key="GridCell.Tab.0.left" timestamp="1594257171415">
+      <screen x="-1875" y="23" width="1875" height="1057" />
+    </state>
+    <state width="1833" height="290" key="GridCell.Tab.0.left/0.23.1920.1057/-1875.23.1875.1057@-1875.23.1875.1057" timestamp="1594257171415" />
+    <state width="1833" height="290" key="GridCell.Tab.0.right" timestamp="1594257171415">
+      <screen x="-1875" y="23" width="1875" height="1057" />
+    </state>
+    <state width="1833" height="290" key="GridCell.Tab.0.right/0.23.1920.1057/-1875.23.1875.1057@-1875.23.1875.1057" timestamp="1594257171415" />
+    <state x="-1429" y="190" key="SettingsEditor" timestamp="1594257208474">
+      <screen x="-1875" y="23" width="1875" height="1057" />
+    </state>
+    <state x="-1429" y="190" key="SettingsEditor/0.23.1920.1057/-1875.23.1875.1057@-1875.23.1875.1057" timestamp="1594257208474" />
+  </component>
+</project>
