@@ -1,7 +1,10 @@
 package php
 
-import "testing"
+import (
+	"math"
+	"testing"
+)
 
 func TestCos(t *testing.T) {
-	t.Log(Cos(6))
+	t.Log(Cos(math.Pi))
 }

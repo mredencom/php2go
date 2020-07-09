@@ -59,7 +59,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Test.TestAcos in php2go/php">
+  <component name="RunManager" selected="Go Test.TestCos in php2go/php">
     <configuration name="TestAbs in php2go/php" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="php2go" />
       <working_directory value="$PROJECT_DIR$/php" />
@@ -82,15 +82,6 @@
       <pattern value="^TestAcos$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestArray in php2go/php" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="php2go" />
-      <working_directory value="$PROJECT_DIR$/php" />
-      <framework value="gotest" />
-      <kind value="PACKAGE" />
-      <package value="php2go/php" />
-      <pattern value="^TestArray$" />
-      <method v="2" />
-    </configuration>
     <configuration name="TestArrayChunk in php2go/php" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="php2go" />
       <working_directory value="$PROJECT_DIR$/php" />
@@ -100,6 +91,17 @@
       <directory value="$PROJECT_DIR$/" />
       <filePath value="$PROJECT_DIR$/" />
       <pattern value="^TestArrayChunk$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestCos in php2go/php" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="php2go" />
+      <working_directory value="$PROJECT_DIR$/php" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="php2go/php" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestCos$" />
       <method v="2" />
     </configuration>
     <configuration name="TestEcho in php2go/php" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
@@ -115,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.TestCos in php2go/php" />
         <item itemvalue="Go Test.TestAcos in php2go/php" />
         <item itemvalue="Go Test.TestAbs in php2go/php" />
         <item itemvalue="Go Test.TestEcho in php2go/php" />
         <item itemvalue="Go Test.TestArrayChunk in php2go/php" />
-        <item itemvalue="Go Test.TestArray in php2go/php" />
       </list>
     </recent_temporary>
   </component>
@@ -127,30 +129,30 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1837" height="290" key="GridCell.Tab.0.bottom" timestamp="1594281943441">
+    <state width="1837" height="290" key="GridCell.Tab.0.bottom" timestamp="1594282340196">
       <screen x="-1879" y="23" width="1879" height="1057" />
     </state>
     <state width="1833" height="290" key="GridCell.Tab.0.bottom/0.23.1920.1057/-1875.23.1875.1057@-1875.23.1875.1057" timestamp="1594257171415" />
     <state width="1833" height="290" key="GridCell.Tab.0.bottom/0.23.1920.1057/-1876.23.1876.1057@-1876.23.1876.1057" timestamp="1594258677019" />
-    <state width="1837" height="290" key="GridCell.Tab.0.bottom/0.23.1920.1057/-1879.23.1879.1057@-1879.23.1879.1057" timestamp="1594281943441" />
-    <state width="1837" height="290" key="GridCell.Tab.0.center" timestamp="1594281943440">
+    <state width="1837" height="290" key="GridCell.Tab.0.bottom/0.23.1920.1057/-1879.23.1879.1057@-1879.23.1879.1057" timestamp="1594282340196" />
+    <state width="1837" height="290" key="GridCell.Tab.0.center" timestamp="1594282340195">
       <screen x="-1879" y="23" width="1879" height="1057" />
     </state>
     <state width="1833" height="290" key="GridCell.Tab.0.center/0.23.1920.1057/-1875.23.1875.1057@-1875.23.1875.1057" timestamp="1594257171415" />
     <state width="1833" height="290" key="GridCell.Tab.0.center/0.23.1920.1057/-1876.23.1876.1057@-1876.23.1876.1057" timestamp="1594258677018" />
-    <state width="1837" height="290" key="GridCell.Tab.0.center/0.23.1920.1057/-1879.23.1879.1057@-1879.23.1879.1057" timestamp="1594281943440" />
-    <state width="1837" height="290" key="GridCell.Tab.0.left" timestamp="1594281943440">
+    <state width="1837" height="290" key="GridCell.Tab.0.center/0.23.1920.1057/-1879.23.1879.1057@-1879.23.1879.1057" timestamp="1594282340195" />
+    <state width="1837" height="290" key="GridCell.Tab.0.left" timestamp="1594282340194">
       <screen x="-1879" y="23" width="1879" height="1057" />
     </state>
     <state width="1833" height="290" key="GridCell.Tab.0.left/0.23.1920.1057/-1875.23.1875.1057@-1875.23.1875.1057" timestamp="1594257171415" />
     <state width="1833" height="290" key="GridCell.Tab.0.left/0.23.1920.1057/-1876.23.1876.1057@-1876.23.1876.1057" timestamp="1594258677018" />
-    <state width="1837" height="290" key="GridCell.Tab.0.left/0.23.1920.1057/-1879.23.1879.1057@-1879.23.1879.1057" timestamp="1594281943440" />
-    <state width="1837" height="290" key="GridCell.Tab.0.right" timestamp="1594281943441">
+    <state width="1837" height="290" key="GridCell.Tab.0.left/0.23.1920.1057/-1879.23.1879.1057@-1879.23.1879.1057" timestamp="1594282340194" />
+    <state width="1837" height="290" key="GridCell.Tab.0.right" timestamp="1594282340195">
       <screen x="-1879" y="23" width="1879" height="1057" />
     </state>
     <state width="1833" height="290" key="GridCell.Tab.0.right/0.23.1920.1057/-1875.23.1875.1057@-1875.23.1875.1057" timestamp="1594257171415" />
     <state width="1833" height="290" key="GridCell.Tab.0.right/0.23.1920.1057/-1876.23.1876.1057@-1876.23.1876.1057" timestamp="1594258677019" />
-    <state width="1837" height="290" key="GridCell.Tab.0.right/0.23.1920.1057/-1879.23.1879.1057@-1879.23.1879.1057" timestamp="1594281943441" />
+    <state width="1837" height="290" key="GridCell.Tab.0.right/0.23.1920.1057/-1879.23.1879.1057@-1879.23.1879.1057" timestamp="1594282340195" />
     <state x="-1432" y="190" key="SettingsEditor" timestamp="1594278715712">
       <screen x="-1879" y="23" width="1879" height="1057" />
     </state>
