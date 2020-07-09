@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb459987-aa99-4bf2-b09a-deac9795b54c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/php/asin.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/asin_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/jiangtao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/jiangtao.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TODO.md" beforeDir="false" afterPath="$PROJECT_DIR$/TODO.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
