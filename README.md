@@ -33,7 +33,7 @@ import (
 
 func main() {
 
-    php.Echo("Hello ", "world!"," This is php2go library.")
+    php.Echo("Hello ", "world!", " This is php2go library.")
 
 }
 
