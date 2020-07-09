@@ -14,7 +14,7 @@
   - [ ] array_diff_key()  比较数组，返回差集（只比较键名）。
   - [ ] array_diff_uassoc() 比较数组，返回差集（比较键名和键值，使用用户自定义的键名比较函数）。
   - [ ] array_diff_ukey() 比较数组，返回差集（只比较键名，使用用户自定义的键名比较函数）。
-  - [ ] array_fill()  用给定的键值填充数组。
+  - [x] array_fill()  用给定的键值填充数组。
   - [ ] array_fill_keys() 用指定键名的给定键值填充数组。
   - [ ] array_filter()  用回调函数过滤数组中的元素。
   - [ ] array_flip()  交换数组中的键和值。
