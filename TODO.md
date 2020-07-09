@@ -305,7 +305,7 @@
   - [ ] count_chars() 返回有关字符串中所用字符的信息。
   - [ ] crc32() 计算字符串的 32 位 CRC。
   - [ ] crypt() 单向的字符串加密法（hashing）。
-  - [ ] echo()  输出一个或多个字符串。
+  - [x] echo()  输出一个或多个字符串。
   - [ ] explode() 把字符串打散为数组。
   - [ ] fprintf() 把格式化的字符串写入到指定的输出流。
   - [ ] get_html_translation_table()  返回由 htmlspecialchars() 和 htmlentities() 使用的翻译表。
