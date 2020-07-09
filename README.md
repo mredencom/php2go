@@ -7,7 +7,7 @@
 [![license](https://img.shields.io/github/license/php2go/php2go.svg)](https://github.com/php2go/php2go/blob/master/LICENSE)
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/php2go/php2go.svg?colorB=green)](https://github.com/php2go/php2go/archive/master.zip)
 
-这是一个用Go语言开发的辅助库，尤其适用于熟悉PHP内置函数的开发者，将会实现PHP内置函数。
+这是一个用Go语言开发的辅助库，尤其适用于熟悉PHP内置函数的开发者，将会实现PHP内置函数，让你写go如php般流畅，你值得拥有~
 
 ### 下载安装
 
