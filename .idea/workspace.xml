@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb459987-aa99-4bf2-b09a-deac9795b54c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/php/acosh.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TODO.md" beforeDir="false" afterPath="$PROJECT_DIR$/TODO.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,5 +156,9 @@
     </state>
     <state x="-1429" y="190" key="SettingsEditor/0.23.1920.1057/-1875.23.1875.1057@-1875.23.1875.1057" timestamp="1594257208474" />
     <state x="-1432" y="190" key="SettingsEditor/0.23.1920.1057/-1879.23.1879.1057@-1879.23.1879.1057" timestamp="1594278715712" />
+    <state x="-1259" y="187" width="639" height="729" key="find.popup" timestamp="1594283149981">
+      <screen x="-1878" y="23" width="1878" height="1057" />
+    </state>
+    <state x="-1259" y="187" width="639" height="729" key="find.popup/0.23.1920.1057/-1878.23.1878.1057@-1878.23.1878.1057" timestamp="1594283149981" />
   </component>
 </project>
