@@ -10,10 +10,10 @@ const (
 type ArrayMap map[string]interface{}
 
 // https://www.php.net/manual/zh/function.array-change-key-case.php
-// array_change_key_case() 加密
+// array_change_key_case()
 
 func ArrayChangeKeyCase(arr ArrayMap, Case int) ArrayMap {
-	
+
 	var temp = ArrayMap{}
 	for k, v := range arr {
 		if Case == CaseLower {
