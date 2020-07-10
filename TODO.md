@@ -407,7 +407,7 @@
   
 ## Variable handling 函数
   - [ ] boolval() 获取变量的布尔值
-  - [ ] debug_zval_dump() Dumps a string representation of an internal zend value to output
+  - [ ] debug_zval_dump() 转储内部zend值的字符串表示形式以输出
   - [ ] doubleval() floatval 的别名
   - [ ] empty() 检查一个变量是否为空
   - [ ] floatval() 获取变量的浮点值
