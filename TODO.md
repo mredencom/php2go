@@ -5,7 +5,7 @@
 
 ## Array 函数
   - [x] array() 创建数组。
-  - [ ] array_change_key_case() 把数组中所有键更改为小写或大写。
+  - [x] array_change_key_case() 把数组中所有键更改为小写或大写。
   - [x] array_chunk() 把一个数组分割为新的数组块。
   - [x] array_column()  返回输入数组中某个单一列的值。
   - [ ] array_combine() 通过合并两个数组来创建一个新数组。
