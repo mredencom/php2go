@@ -322,7 +322,7 @@
   - [ ] levenshtein() 返回两个字符串之间的 Levenshtein 距离。
   - [ ] localeconv()  返回本地数字及货币格式信息。
   - [ ] ltrim() 移除字符串左侧的空白字符或其他字符。
-  - [ ] md5() 计算字符串的 MD5 散列。
+  - [x] md5() 计算字符串的 MD5 散列。
   - [ ] md5_file()  计算文件的 MD5 散列。
   - [ ] metaphone() 计算字符串的 metaphone 键。
   - [ ] money_format()  返回格式化为货币字符串的字符串。
