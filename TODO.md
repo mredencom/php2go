@@ -338,7 +338,7 @@
   - [ ] quotemeta() 引用元字符。
   - [ ] rtrim() 移除字符串右侧的空白字符或其他字符。
   - [ ] setlocale() 设置地区信息（地域信息）。
-  - [ ] sha1()  计算字符串的 SHA-1 散列。
+  - [x] sha1()  计算字符串的 SHA-1 散列。
   - [ ] sha1_file() 计算文件的 SHA-1 散列。
   - [ ] similar_text()  计算两个字符串的相似度。
   - [ ] soundex() 计算字符串的 soundex 键。
