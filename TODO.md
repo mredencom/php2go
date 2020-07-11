@@ -394,8 +394,8 @@
   - [ ] wordwrap()  打断字符串为指定数量的字串.
 
 ## URL 函数
-  - [ ] base64_decode() 对使用 MIME base64 编码的数据进行解码
-  - [ ] base64_encode() 使用 MIME base64 对数据进行编码
+  - [x] base64_decode() 对使用 MIME base64 编码的数据进行解码
+  - [x] base64_encode() 使用 MIME base64 对数据进行编码
   - [ ] get_headers() 取得服务器响应一个 HTTP 请求所发送的所有标头
   - [ ] get_meta_tags() 从一个文件中提取所有的 meta 标签 content 属性，返回一个数组
   - [ ] http_build_query() 生成 URL-encode 之后的请求字符串
