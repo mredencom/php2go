@@ -3,7 +3,7 @@ package php
 import "testing"
 
 func TestArrayChangeKeyCase(t *testing.T) {
-	ma := ArrayMap{
+	ma := ArrMap{
 		"hello": 1111,
 		"World": 2222,
 	}

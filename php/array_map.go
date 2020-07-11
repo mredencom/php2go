@@ -21,27 +21,11 @@
 // SOFTWARE.
 package php
 
-import "strings"
-
-const (
-	CaseLower = iota
-	CaseUpper
-)
-
-type ArrMap map[string]interface{}
-
-// https://www.php.net/manual/zh/function.array-change-key-case.php
-// array_change_key_case()
-
-func ArrayChangeKeyCase(arr ArrMap, Case int) ArrMap {
-
-	var temp = ArrMap{}
-	for k, v := range arr {
-		if Case == CaseLower {
-			temp[strings.ToLower(k)] = v
-		} else if Case == CaseUpper {
-			temp[strings.ToUpper(k)] = v
-		}
+// https://www.php.net/manual/zh/function.array-map.php
+// array_map
+func ArrayMap(f func(item interface{}) interface{}, arr []interface{}) (r []interface{}) {
+	for _, v := range arr {
+		r = append(r, f(v))
 	}
-	return temp
+	return r
 }
