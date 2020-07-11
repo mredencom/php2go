@@ -417,12 +417,12 @@
   - [ ] import_request_variables() 将 GET／POST／Cookie 变量导入到全局作用域中
   - [ ] intval() 获取变量的整数值
   - [ ] is_array() 检测变量是否是数组
-  - [ ] is_bool() 检测变量是否是布尔型
+  - [x] is_bool() 检测变量是否是布尔型
   - [ ] is_callable() 检测参数是否为合法的可调用结构
   - [ ] is_double() is_float 的别名
-  - [ ] is_float() 检测变量是否是浮点型
-  - [ ] is_int() 检测变量是否是整数
-  - [ ] is_integer() is_int 的别名
+  - [x] is_float() 检测变量是否是浮点型
+  - [x] is_int() 检测变量是否是整数
+  - [x] is_integer() is_int 的别名
   - [ ] is_iterable() 验证变量的内容是否为可迭代值
   - [ ] is_long() is_int 的别名
   - [ ] is_null() 检测变量是否为 NULL
