@@ -53,7 +53,7 @@
   - [ ] array_unique()  删除数组中的重复值。
   - [ ] array_unshift() 在数组开头插入一个或多个元素。
   - [ ] array_values()  返回数组中所有的值。
-  - [ ] array_walk()  对数组中的每个成员应用用户函数。
+  - [x] array_walk()  对数组中的每个成员应用用户函数。
   - [ ] array_walk_recursive()  对数组中的每个成员递归地应用用户函数。
   - [ ] arsort()  对关联数组按照键值进行降序排序。
   - [ ] asort() 对关联数组按照键值进行升序排序。
