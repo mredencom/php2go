@@ -8,7 +8,7 @@ func TestArrayMap(t *testing.T) {
 	a = append(a, 1)
 	a = append(a, 2)
 	a = append(a, 3)
-	res := ArrayMap(func(item interface{}) interface{} {
+	res := ArrayMapSlice(func(item interface{}) interface{} {
 		i := item.(int)
 		return i * i
 	}, a)
