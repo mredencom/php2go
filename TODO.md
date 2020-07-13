@@ -1,7 +1,7 @@
 # 实现规划(421个方法)
 ## 项目进度
   * [ ] 未开始(374个)
-  * [x] 已完成(49个)
+  * [x] 已完成(50个)
 
 ## Array 函数
   - [x] array() 创建数组。
@@ -106,7 +106,7 @@
 ## Date / Time 函数
   - [x] time() 获取当前时间戳。
   - [x] date() 获取当前时间。
-  - [ ] checkdate() 验证格利高里日期。
+  - [x] checkdate() 验证格利高里日期。
   - [ ] date_add()  添加日、月、年、时、分和秒到日期。
   - [ ] date_create_from_format() 返回根据指定格式进行格式化的新的 DateTime 对象。
   - [ ] date_create() 返回新的 DateTime 对象。
