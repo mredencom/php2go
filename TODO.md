@@ -167,8 +167,8 @@
 
 ## Filesystem 函数
   - [ ] basename()  返回路径中的文件名部分。
-  - [ ] chgrp() 改变文件组。
-  - [ ] chmod() 改变文件模式。
+  - [x] chgrp() 改变文件组。
+  - [x] chmod() 改变文件模式。
   - [ ] chown() 改变文件所有者。
   - [ ] clearstatcache()  清除文件状态缓存。
   - [ ] copy()  复制文件。
