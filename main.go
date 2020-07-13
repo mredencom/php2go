@@ -1,4 +1,4 @@
-package main
+package php
 
 import "php2go/php"
 
