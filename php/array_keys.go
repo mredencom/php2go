@@ -21,13 +21,14 @@
 // SOFTWARE.
 package php
 
-// https://www.php.net/manual/zh/function.array.php
-// array()
-func Array(v ...interface{}) interface{} {
-	return v
-}
-
-// 获取数组长度
-func Count(v []interface{}) int {
-	return len(v)
+// https://www.php.net/manual/zh/function.array_keys.php
+// array_keys()
+func ArrayKeys(arr map[interface{}]interface{}) (r []interface{}) {
+	if len(arr) == 0 {
+		return r
+	}
+	for k := range arr {
+		r = append(r, k)
+	}
+	return r
 }

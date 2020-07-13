@@ -21,13 +21,16 @@
 // SOFTWARE.
 package php
 
-// https://www.php.net/manual/zh/function.array.php
-// array()
-func Array(v ...interface{}) interface{} {
-	return v
-}
-
-// 获取数组长度
-func Count(v []interface{}) int {
-	return len(v)
+// https://www.php.net/manual/zh/function.array-key-exists.php
+// array_key_exists()
+func ArrayKeyExists(key interface{}, arr map[interface{}]interface{}) bool {
+	if len(arr) == 0 {
+		return false
+	}
+	for k := range arr {
+		if key == k {
+			return true
+		}
+	}
+	return false
 }
