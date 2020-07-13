@@ -18,7 +18,7 @@
   - [x] array_fill()  用给定的键值填充数组。
   - [x] array_fill_keys() 用指定键名的给定键值填充数组。
   - [ ] array_filter()  用回调函数过滤数组中的元素。
-  - [ ] array_flip()  交换数组中的键和值。
+  - [x] array_flip()  交换数组中的键和值。
   - [ ] array_intersect() 比较数组，返回交集（只比较键值）。
   - [ ] array_intersect_assoc() 比较数组，返回交集（比较键名和键值）。
   - [ ] array_intersect_key() 比较数组，返回交集（只比较键名）。
