@@ -104,6 +104,7 @@
   - [ ] unixtojd()  把 Unix 时间戳转换为儒略日计数。
 
 ## Date / Time 函数
+  - [ ] time() 获取当前时间戳。
   - [ ] checkdate() 验证格利高里日期。
   - [ ] date_add()  添加日、月、年、时、分和秒到日期。
   - [ ] date_create_from_format() 返回根据指定格式进行格式化的新的 DateTime 对象。
