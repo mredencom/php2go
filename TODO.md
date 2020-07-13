@@ -1,7 +1,7 @@
 # 实现规划(421个方法)
 ## 项目进度
-  * [ ] 未开始(375个)
-  * [x] 已完成(47个)
+  * [ ] 未开始(374个)
+  * [x] 已完成(49个)
 
 ## Array 函数
   - [x] array() 创建数组。
@@ -104,7 +104,8 @@
   - [ ] unixtojd()  把 Unix 时间戳转换为儒略日计数。
 
 ## Date / Time 函数
-  - [ ] time() 获取当前时间戳。
+  - [x] time() 获取当前时间戳。
+  - [x] date() 获取当前时间。
   - [ ] checkdate() 验证格利高里日期。
   - [ ] date_add()  添加日、月、年、时、分和秒到日期。
   - [ ] date_create_from_format() 返回根据指定格式进行格式化的新的 DateTime 对象。
@@ -144,7 +145,6 @@
   - [ ] strftime()  根据区域设置对本地时间/日期进行格式化。
   - [ ] strptime()  解析由 strftime() 生成的时间/日期。
   - [ ] strtotime() 将任何英文文本的日期或时间描述解析为 Unix 时间戳。
-  - [ ] time()  返回当前时间的 Unix 时间戳。
   - [ ] timezone_abbreviations_list() 返回包含夏令时、偏移量和时区名称的关联数组。
   - [ ] timezone_identifiers_list() 返回带有所有时区标识符的索引数组。
   - [ ] timezone_location_get() 返回指定时区的位置信息。
