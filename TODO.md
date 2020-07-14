@@ -1,7 +1,7 @@
 # 实现规划(425个方法)
 ## 项目进度
-  * [ ] 未开始(354个)
-  * [x] 已完成(71个)
+  * [ ] 未开始(348个)
+  * [x] 已完成(77个)
 
 ## Array 函数
   - [x] array() 创建数组。
@@ -399,12 +399,12 @@
   - [x] base64_encode() 使用 MIME base64 对数据进行编码
   - [ ] get_headers() 取得服务器响应一个 HTTP 请求所发送的所有标头
   - [ ] get_meta_tags() 从一个文件中提取所有的 meta 标签 content 属性，返回一个数组
-  - [ ] http_build_query() 生成 URL-encode 之后的请求字符串
-  - [ ] parse_url() 解析 URL，返回其组成部分
-  - [ ] rawurldecode() 对已编码的 URL 字符串进行解码
-  - [ ] rawurlencode() 按照 RFC 3986 对 URL 进行编码
-  - [ ] urldecode() 解码已编码的 URL 字符串
-  - [ ] urlencode() 编码 URL 字符串
+  - [x] http_build_query() 生成 URL-encode 之后的请求字符串
+  - [x] parse_url() 解析 URL，返回其组成部分
+  - [x] rawurldecode() 对已编码的 URL 字符串进行解码
+  - [x] rawurlencode() 按照 RFC 3986 对 URL 进行编码
+  - [x] urldecode() 解码已编码的 URL 字符串
+  - [x] urlencode() 编码 URL 字符串
   
 ## Variable handling 函数
   - [x] sleep() 休眠函数(秒)
