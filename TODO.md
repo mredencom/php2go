@@ -1,7 +1,7 @@
 # 实现规划(425个方法)
 ## 项目进度
-  * [ ] 未开始(348个)
-  * [x] 已完成(77个)
+  * [ ] 未开始(347个)
+  * [x] 已完成(78个)
 
 ## Array 函数
   - [x] array() 创建数组。
@@ -397,7 +397,7 @@
 ## URL 函数
   - [x] base64_decode() 对使用 MIME base64 编码的数据进行解码
   - [x] base64_encode() 使用 MIME base64 对数据进行编码
-  - [ ] get_headers() 取得服务器响应一个 HTTP 请求所发送的所有标头
+  - [x] get_headers() 取得服务器响应一个 HTTP 请求所发送的所有标头
   - [ ] get_meta_tags() 从一个文件中提取所有的 meta 标签 content 属性，返回一个数组
   - [x] http_build_query() 生成 URL-encode 之后的请求字符串
   - [x] parse_url() 解析 URL，返回其组成部分
