@@ -1,7 +1,7 @@
-# 实现规划(421个方法)
+# 实现规划(423个方法)
 ## 项目进度
   * [ ] 未开始(373个)
-  * [x] 已完成(51个)
+  * [x] 已完成(53个)
 
 ## Array 函数
   - [x] array() 创建数组。
@@ -407,6 +407,8 @@
   - [ ] urlencode() 编码 URL 字符串
   
 ## Variable handling 函数
+  - [x] sleep() 休眠函数(秒)
+  - [x] usleep() 休眠函数(微秒)
   - [ ] boolval() 获取变量的布尔值
   - [ ] debug_zval_dump() 转储内部zend值的字符串表示形式以输出
   - [ ] doubleval() floatval 的别名
