@@ -1,7 +1,7 @@
 # 实现规划(425个方法)
 ## 项目进度
-  * [ ] 未开始(361个)
-  * [x] 已完成(64个)
+  * [ ] 未开始(356个)
+  * [x] 已完成(69个)
 
 ## Array 函数
   - [x] array() 创建数组。
@@ -164,7 +164,7 @@
   - [ ] opendir() 打开目录句柄。
   - [ ] readdir() 返回目录句柄中的条目。
   - [ ] rewinddir() 重置目录句柄。
-  - [ ] scandir() 返回指定目录中的文件和目录的数组。
+  - [x] scandir() 返回指定目录中的文件和目录的数组。
 
 ## Filesystem 函数
   - [ ] basename()  返回路径中的文件名部分。
@@ -333,7 +333,7 @@
   - [ ] number_format() 以千位分组来格式化数字。
   - [ ] ord() 返回字符串中第一个字符的 ASCII 值。
   - [ ] parse_str() 把查询字符串解析到变量中。
-  - [ ] print() 输出一个或多个字符串。
+  - [x] print() 输出一个或多个字符串。
   - [ ] printf()  输出格式化的字符串。
   - [ ] quoted_printable_decode() 把 quoted-printable 字符串转换为 8 位字符串。
   - [ ] quoted_printable_encode() 把 8 位字符串转换为 quoted-printable 字符串。
@@ -436,12 +436,12 @@
   - [ ] is_scalar() 检测变量是否是一个标量
   - [ ] is_string() 检测变量是否是字符串
   - [ ] isset() 检测变量是否已设置并且非 NULL
-  - [ ] print_r() 打印关于变量的易于理解的信息。
+  - [x] print_r() 打印关于变量的易于理解的信息。
   - [ ] serialize() 产生一个可存储的值的表示
   - [ ] settype() 设置变量的类型
   - [ ] strval() 获取变量的字符串值
   - [ ] unserialize() 从已存储的表示中创建 PHP 的值
   - [ ] unset() 释放给定的变量
-  - [ ] var_dump() 打印变量的相关信息
+  - [x] var_dump() 打印变量的相关信息
   - [ ] var_export() 输出或返回一个变量的字符串表示
   
