@@ -173,7 +173,7 @@
   - [x] chown() 改变文件所有者。
   - [ ] clearstatcache()  清除文件状态缓存。
   - [x] copy()  复制文件。
-  - [ ] delete()  参见 unlink() 或 unset()。
+  - [x] delete()  参见 unlink() 或 unset()。
   - [ ] dirname() 返回路径中的目录名称部分。
   - [ ] disk_free_space() 返回目录的可用空间。
   - [ ] disk_total_space()  返回一个目录的磁盘总容量。
@@ -242,7 +242,7 @@
   - [ ] tmpfile() 建立临时文件。
   - [ ] touch() 设置文件的访问和修改时间。
   - [ ] umask() 改变文件的文件权限。
-  - [ ] unlink()  删除文件。
+  - [x] unlink()  删除文件。
 
 ## Math 函数
   - [x] abs() 绝对值。
