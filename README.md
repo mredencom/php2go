@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/php2go/php2go.svg?branch=master)](https://travis-ci.org/php2go/php2go)
 [![Go Report Card](https://goreportcard.com/badge/github.com/php2go/php2go)](https://goreportcard.com/report/github.com/php2go/php2go)
-[![GoDoc](https://godoc.org/github.com/php2go/php2go?status.svg)](https://godoc.org/github.com/php2go/php2go)
+[![GoDoc](https://godoc.org/github.com/php2go/php2go/php?status.svg)](https://godoc.org/github.com/php2go/php2go/php)
 [![GitHub contributors](https://img.shields.io/github/contributors/php2go/php2go.svg)](https://github.com/php2go/php2go/graphs/contributors)
 [![license](https://img.shields.io/github/license/php2go/php2go.svg)](https://github.com/php2go/php2go/blob/master/LICENSE)
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/php2go/php2go.svg?colorB=green)](https://github.com/php2go/php2go/archive/master.zip)
