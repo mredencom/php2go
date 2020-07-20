@@ -1,7 +1,7 @@
 # 实现规划(427个方法)
 ## 项目进度
-  * [ ] 未开始(337个)
-  * [x] 已完成(90个)
+  * [ ] 未开始(335个)
+  * [x] 已完成(92个)
 
 ## Array 函数
   - [x] array() 创建数组。
@@ -334,11 +334,10 @@
   - [ ] ord() 返回字符串中第一个字符的 ASCII 值。
   - [ ] parse_str() 把查询字符串解析到变量中。
   - [x] print() 输出一个或多个字符串。
-  - [ ] printf()  输出格式化的字符串。
+  - [x] printf()  输出格式化的字符串。
   - [ ] quoted_printable_decode() 把 quoted-printable 字符串转换为 8 位字符串。
   - [ ] quoted_printable_encode() 把 8 位字符串转换为 quoted-printable 字符串。
   - [ ] quotemeta() 引用元字符。
-  - [ ] rtrim() 移除字符串右侧的空白字符或其他字符。
   - [ ] setlocale() 设置地区信息（地域信息）。
   - [x] sha1()  计算字符串的 SHA-1 散列。
   - [ ] sha1_file() 计算文件的 SHA-1 散列。
