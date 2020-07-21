@@ -1,7 +1,7 @@
 # 实现规划(426个方法)
 ## 项目进度
-  * [ ] 未开始(326个)
-  * [x] 已完成(100个)
+  * [ ] 未开始(324个)
+  * [x] 已完成(102个)
 
 ## Array 函数
   - [x] array() 创建数组。
@@ -318,8 +318,8 @@
   - [ ] htmlentities()  把字符转换为 HTML 实体。
   - [ ] htmlspecialchars_decode() 把一些预定义的 HTML 实体转换为字符。
   - [ ] htmlspecialchars()  把一些预定义的字符转换为 HTML 实体。
-  - [ ] implode() 返回由数组元素组合成的字符串。
-  - [ ] join()  implode() 的别名。
+  - [x] implode() 返回由数组元素组合成的字符串。
+  - [x] join()  implode() 的别名。
   - [ ] lcfirst() 把字符串的首字符转换为小写。
   - [ ] levenshtein() 返回两个字符串之间的 Levenshtein 距离。
   - [ ] localeconv()  返回本地数字及货币格式信息。
