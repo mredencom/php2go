@@ -1,7 +1,7 @@
 # 实现规划(426个方法)
 ## 项目进度
-  * [ ] 未开始(320个)
-  * [x] 已完成(106个)
+  * [ ] 未开始(316个)
+  * [x] 已完成(110个)
 
 ## Array 函数
   - [x] array() 创建数组。
@@ -300,7 +300,7 @@
   - [ ] bin2hex() 把 ASCII 字符的字符串转换为十六进制值。
   - [ ] chop()  删除字符串右侧的空白字符或其他字符。
   - [ ] chr() 从指定的 ASCII 值返回字符。
-  - [ ] chunk_split() 把字符串分割为一系列更小的部分。
+  - [x] chunk_split() 把字符串分割为一系列更小的部分。
   - [ ] convert_cyr_string()  把字符串由一种 Cyrillic 字符集转换为另一种。
   - [ ] convert_uudecode()  解码 uuencode 编码字符串。
   - [ ] convert_uuencode()  使用 uuencode 算法对字符串进行编码。
@@ -320,7 +320,7 @@
   - [ ] htmlspecialchars()  把一些预定义的字符转换为 HTML 实体。
   - [x] implode() 返回由数组元素组合成的字符串。
   - [x] join()  implode() 的别名。
-  - [ ] lcfirst() 把字符串的首字符转换为小写。
+  - [x] lcfirst() 把字符串的首字符转换为小写。
   - [ ] levenshtein() 返回两个字符串之间的 Levenshtein 距离。
   - [ ] localeconv()  返回本地数字及货币格式信息。
   - [ ] ltrim() 移除字符串左侧的空白字符或其他字符。
@@ -382,14 +382,14 @@
   - [x] strtolower()  把字符串转换为小写字母。
   - [x] strtoupper()  把字符串转换为大写字母。
   - [ ] strtr() 转换字符串中特定的字符。
-  - [ ] substr()  返回字符串的一部分。
+  - [x] substr()  返回字符串的一部分。
   - [ ] substr_compare()  从指定的开始位置（二进制安全和选择性区分大小写）比较两个字符串。
   - [ ] substr_count()  计算子串在字符串中出现的次数。
   - [x] substr_replace()  把字符串的一部分替换为另一个字符串。
   - [x] trim()  移除字符串两侧的空白字符和其他字符。
   - [x] ltrim()  移除字符串左侧的空白字符和其他字符。
   - [x] rtrim()  移除字符串右侧的空白字符和其他字符。
-  - [ ] ucfirst() 把字符串中的首字符转换为大写。
+  - [x] ucfirst() 把字符串中的首字符转换为大写。
   - [x] ucwords() 把字符串中每个单词的首字符转换为大写。
   - [ ] vfprintf()  把格式化的字符串写到指定的输出流。
   - [ ] vprintf() 输出格式化的字符串。
