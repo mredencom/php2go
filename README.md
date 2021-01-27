@@ -47,7 +47,7 @@ func main() {
 
 ### 贡献代码
 
-[贡献指南](https://github.com/php2go/php2go/blob/master/.github/CONTRIBUTING.md)
+[贡献指南](https://github.com/php2go/php2go/blob/master/CODE_OF_CONDUCT.md)
 
 ## Contributors
 
