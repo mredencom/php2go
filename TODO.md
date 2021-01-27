@@ -1,7 +1,23 @@
+<!-- TOC -->
+
+- [实现规划(426个方法)](#实现规划426个方法)
+  - [项目进度](#项目进度)
+  - [Array 函数](#array-函数)
+  - [Calendar 函数](#calendar-函数)
+  - [Date / Time 函数](#date--time-函数)
+  - [Directory 函数](#directory-函数)
+  - [Filesystem 函数](#filesystem-函数)
+  - [Math 函数](#math-函数)
+  - [String 函数](#string-函数)
+  - [URL 函数](#url-函数)
+  - [Variable handling 函数](#variable-handling-函数)
+
+<!-- /TOC -->
+
 # 实现规划(426个方法)
 ## 项目进度
-  * [ ] 未开始(320个)
-  * [x] 已完成(106个)
+  * [ ] 未开始(319个)
+  * [x] 已完成(107个)
 
 ## Array 函数
   - [x] array() 创建数组。
@@ -10,7 +26,7 @@
   - [x] array_column()  返回输入数组中某个单一列的值。
   - [x] array_combine() 通过合并两个数组来创建一个新数组。
   - [x] array_count_values()  用于统计数组中所有值出现的次数。
-  - [ ] array_diff()  比较数组，返回差集（只比较键值）。
+  - [x] array_diff()  比较数组，返回差集（只比较键值）。
   - [ ] array_diff_assoc()  比较数组，返回差集（比较键名和键值）。
   - [ ] array_diff_key()  比较数组，返回差集（只比较键名）。
   - [ ] array_diff_uassoc() 比较数组，返回差集（比较键名和键值，使用用户自定义的键名比较函数）。
